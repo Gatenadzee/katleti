@@ -1,0 +1,18 @@
+
+*{
+    background-color: black;
+} 
+
+.Conteiner{
+    background-color: yellow;
+    height: 5px;
+}
+
+.welcome-selection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: black;
+    color: white;
+}
